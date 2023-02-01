@@ -2,14 +2,14 @@
 
 This is a real-time chat application built using React, Node.js and Express. The aim of this project is to provide users with a simple, yet effective platform to communicate with each other in real-time.
 
-##Requirements
+## Requirements
 
 * Node.js
 * NPM
 * React
 * Express
 
-##Installation
+## Installation
 
 1. Clone the repository to your local machine
 
